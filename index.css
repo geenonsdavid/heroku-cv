@@ -11,6 +11,12 @@
 	 font-size: 16px;
 	 line-height: 1.5em;
 }
+
+.picture{
+	width: 100%;
+	height: 100%;
+}
+
  a {
 	 color: #6c9;
 	 text-decoration: none;
@@ -106,13 +112,14 @@
 }
  @media (max-width: 1500px) {
 	 .profile .picture-resume img {
-		 width: 80px;
+		 width: 150px;
+		 height: 150px;
 	}
 }
  @media (max-width: 1200px) {
 	 .profile .picture-resume img {
-		 width: 120px;
-		 height: 120px;
+		 width: 150px;
+		 height: 150px;
 	}
 }
  @media (max-width: 1500px) {
@@ -123,14 +130,14 @@
 }
  @media (max-width: 1200px) {
 	 .profile .picture-resume {
-		 width: 200px;
-		 height: 200px;
+		 width: 150px;
+		 height: 150px;
 	}
 }
  @media (max-width: 450px) {
 	 .profile .picture-resume {
-		 width: 180px;
-		 height: 180px;
+		 width: 150px;
+		 height: 150px;
 	}
 }
  .profile .contact-info {
