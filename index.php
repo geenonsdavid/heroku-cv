@@ -8,7 +8,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Bonjour ! Je m'appelle Mickaël Andrieu</title>
+    <title>Bonjour ! Je m'appelle Geenons, David</title>
     <meta name="description" content="Mon super CV">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="index.css">
@@ -138,9 +138,8 @@
                         <li class="skill-percentage">Photoshop</li>
                         <li class="skill-percentage">BASIC PHP</li>
                         <li class="skill-percentage">BASIC MYSQL</li>
-                        <li class="skill-percentage">BASIC LINUX</li>
                         <li class="skill-percentage">GIT/GITHUB</li>
-                        <li class="skill-percentage">GULP/GRUNT</li>
+            
                     </ul>
                 </div>
 
